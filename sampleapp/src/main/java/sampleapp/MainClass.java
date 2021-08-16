@@ -5,5 +5,6 @@ public class MainClass {
 	{
 		System.out.println("Hello!");
 		System.out.println("Welcome to GIT!");
+		System.out.println("Good Afternoon.");
 	}
 }
